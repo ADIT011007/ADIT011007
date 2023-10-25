@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adit
 - 👀 I’m interested in ... Gaming and app/game devlopment
-- 🌱 I’m currently learning ... Visual studio c# .net
+- 🌱 I’m currently learning ... Visual studio c# winforms . net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... My Discord : mintseeker312#0630
 
