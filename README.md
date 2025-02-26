@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Adit
-- 👀 I’m interested in ... Gaming and app/game devlopment
-- 🌱 I’m currently learning ... Visual studio c# winforms . net
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... My Discord : mintseeker312#0630
+Adit Gadkay
+Pune, India
 
-<!---
-ADIT011007/ADIT011007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->Hi everyone i am a fresher in App and Game devlopment , currently working on visual studio and Unreal Engine 4 for creating my projects
+I'm a passionate developer focused on crafting innovative Windows desktop applications. My projects include:
+
+Audio Converter: Built using the FFmpeg SDK.
+Hyper X Browser: An ongoing project based on CefSharp in C#.
+Winduster FlatUI Edition: A complete Windows assistant for Windows 10 and above that fixes corrupted files, scans for malware, and more.
+
+I'm currently learning C# WinForms, .NET, and Python, with the ambition to become one of the best software developers. Feel free to reach out at: minterseeker3142@gmail.com
